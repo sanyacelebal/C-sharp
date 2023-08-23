@@ -1,0 +1,7 @@
+C:\Users\om\source\repos\Conditional statements\Conditional statements\bin\Debug\Conditional statements.exe.config
+C:\Users\om\source\repos\Conditional statements\Conditional statements\bin\Debug\Conditional statements.exe
+C:\Users\om\source\repos\Conditional statements\Conditional statements\bin\Debug\Conditional statements.pdb
+C:\Users\om\source\repos\Conditional statements\Conditional statements\obj\Debug\Conditional statements.csproj.AssemblyReference.cache
+C:\Users\om\source\repos\Conditional statements\Conditional statements\obj\Debug\Conditional statements.csproj.CoreCompileInputs.cache
+C:\Users\om\source\repos\Conditional statements\Conditional statements\obj\Debug\Conditional statements.exe
+C:\Users\om\source\repos\Conditional statements\Conditional statements\obj\Debug\Conditional statements.pdb
