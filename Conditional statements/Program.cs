@@ -119,14 +119,14 @@ namespace Conditional_statements
 
 
             // for loop//
-            int i = 0;
+         /*   int i = 0;
               for (; i < 5;)
                   {
                        
                 Console.WriteLine(i);
                
                   } 
-
+         */
 
 
             //while loop//
@@ -150,6 +150,8 @@ namespace Conditional_statements
               while (i < 5); */
 
 
+
+            //this change is for rebase command//
 
 
         }
