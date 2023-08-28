@@ -119,23 +119,23 @@ namespace Conditional_statements
 
 
             // for loop//
-         /*   int i = 0;
-              for (; i < 5;)
-                  {
-                       
-                Console.WriteLine(i);
-               
-                  } 
-         */
+            /*   int i = 0;
+                 for (; i < 5;)
+                     {
+
+                   Console.WriteLine(i);
+
+                     } 
+            */
 
 
             //while loop//
-           /* int i = 0;
-            while(i<5)
-            {
-                Console.WriteLine(i);
-                i++;
-            }  */
+            /* int i = 0;
+             while(i<5)
+             {
+                 Console.WriteLine(i);
+                 i++;
+             }  */
 
 
 
@@ -153,7 +153,8 @@ namespace Conditional_statements
 
             //this change is for rebase command//
 
+            //this change is for rebase command//
 
         }
-        }
+    }
     }
